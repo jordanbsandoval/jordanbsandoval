@@ -29,7 +29,6 @@ I hope some day become a sysadmin/linux 🧠
   <img align="left" alt="Jordanbuitrago LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-## Skills
 
 **languages and tools:**
 
