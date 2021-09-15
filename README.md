@@ -3,7 +3,7 @@
 <a href="https://discord.gg/cryptocu#1820)">
     <img align="left" alt="cryptocu Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/jordansandoval6">
     <img align="left" alt="jordan buitrago | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
