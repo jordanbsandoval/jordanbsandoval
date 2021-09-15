@@ -1,7 +1,7 @@
 👋 &nbsp;Hello, world! <br/> I am Jordan Ronaldo Buitrago.
 ======
 
-## Software Developer at [HolbertonSchool](https://github.com/holbertonschool)
+Software Developer at [HolbertonSchool](https://github.com/holbertonschool)
 ##  👨🏻‍💻  About me
 
 I'm a passionate and creative full-stack developer from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) 
