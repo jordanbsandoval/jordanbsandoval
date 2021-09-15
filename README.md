@@ -17,7 +17,7 @@ I am passionate about continuing to learn how to automate the boring part of my 
 
 I hope some day become a sysadmin/linux 🧠
 
-**You can find me on:**
+- **You can find me on:**
 
 <a href="https://discord.gg/cryptocu2810">
   <img align="left" alt="cryptocu Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -30,7 +30,7 @@ I hope some day become a sysadmin/linux 🧠
 </a>
 
 
-**languages and tools:**
+- **languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
