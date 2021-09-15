@@ -1,4 +1,6 @@
 👋 &nbsp;Hello, world! <br/> I am Jordan Ronaldo Buitrago.
+
+Software Developer at [HolbertonSchool](https://github.com/holbertonschool)
 ======
 ##  👨🏻‍💻  About me
 
