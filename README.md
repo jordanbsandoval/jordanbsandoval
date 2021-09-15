@@ -4,13 +4,16 @@
 
 I'm a passionate and creative full-stack developer from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) 
 
-I am a person who likes to work in a team a lot, I love to learn new things every day, I am very passionate about everything related to operating systems and low-level.
+I am a person who loves to know in detail the why of many things.
+I started in this wonderful world, Creating a masternode for crypto mining. My first interaction with the terminal. After that there was no turning back. 
 
-I love all programming languages, although I do not know most of them, but the ones that I have studied so far have seemed to me: challenging, wonderful and beautiful.
+Holberton was a great success for me. I have learned details that I would not have been able to understand in depth otherwise. I fell in love with C, because of the way I could have memory control, with pointers ;)
 
-The languages that have happened to me the most and the ones that I would stay with for the rest of my life are C, python and machine language. 😍🥰🧡
+Then came python which helps me to make things a little easier. Specially for creating web pages. I created my own AirBnb. Proud of it. Then we moved on to a lovely theme. Sysadmin. Here I reaffirmed, learned, and decided that automation is a fundamental part of this field, as there are cases where it saves us a lot of time.
 
-I hope some day understand the kernel 🧠
+I am passionate about continuing to learn how to automate the boring part of my job. Learning computer security, understanding the kernel, building API'S.
+
+I hope some day become a sysadmin/linux 🧠
 
 **You can find me on:**
 
@@ -19,8 +22,8 @@ I hope some day understand the kernel 🧠
 
 ## Skills
 
-* 💻  C | Python | Javascript | Docker | github-actions
-* 🌐  HTML5 | CSS3
+* 💻  C | Python | Javascript | Docker | github-actions | Django | 
+* 🌐  HTML5 | CSS3 | Vue.js | 
 * 🔧  Vim, VSC <3
 
 <details>
@@ -28,23 +31,19 @@ I hope some day understand the kernel 🧠
 	<br/>
 	<ul>
 		<li>
-			<a href="https://www.linkedin.com/pulse/mi-primer-printf-totalmente-recursivo-emmanuel-palacio-gaviria/">Mi primer printf totalmente recursivo
-</a>
+			<a href=""https://medium.com/@jordanbuitragosandoval>Desarrollando una aplicacion con Docker</a>
 		</li>
 		<li>
-			<a href="https://www.linkedin.com/pulse/lenguaje-de-programaci%C3%B3n-go-el-c-del-siglo-xxi-palacio-gaviria/">Lenguaje de programación Go el C del siglo XXI.</a>
+			<a href="https://www.linkedin.com/pulse/what-happens-when-you-type-ls-l-shell-buitrago-sandoval/">que pasa cuando escribimos el comando ls -l en la shell</a>
 		</li>
 		<li>
-			<a href="https://www.linkedin.com/pulse/argumentos-de-la-l%C3%ADnea-comandos-command-line-emmanuel-palacio-gaviria/">Ejercicios con el lenguaje de programación Go. (Command-Line Arguments).</a>
+			<a href="https://www.linkedin.com/pulse/compiler-gnu-gcc-jordan-ronaldo-buitrago-sandoval/">El proceso detras del compilador gcc</a>
 		</li>
 		<li>
-			<a href="https://www.linkedin.com/pulse/everything-you-need-know-pointers-part-1-emmanuel-palacio-gaviria/">Everything you need to know about pointers. Part 1</a>
-		</li>
-    <li>
-			<a href="https://www.linkedin.com/pulse/recursion-emmanuel-palacio-gaviria/">Recursion</a>
+			<a href="https://www.linkedin.com/pulse/why-c-programming-awesome-jordan-ronaldo-buitrago-sandoval/">Porque Programar en c, me parece increible</a>
 		</li>
 		<li>
-			<a href="https://www.linkedin.com/in/emmanuel-palacio/"><i>More…</i></a>
+			<a href="https://www.linkedin.com/in/jordanbuitrago/"><i>More…</i></a>
 		</li>
 	</ul>
 </details>
