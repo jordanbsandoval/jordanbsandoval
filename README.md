@@ -4,18 +4,6 @@ hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 Software Developer at [HolbertonSchool](https://github.com/holbertonschool)
 ##  👨🏻‍💻  About me
 
-I'm a passionate and creative full-stack developer from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) 
-
-I am a person who loves to know in detail the why of many things.
-I started in this wonderful world, Creating a masternode for crypto mining. My first interaction with the terminal. After that there was no turning back. 
-
-Holberton was a great success for me. I have learned details that I would not have been able to understand in depth otherwise. I fell in love with C, because of the way I could have memory control, with pointers ;)
-
-Then came python which helps me to make things a little easier. Specially for creating web pages. I created my own AirBnb. Proud of it. Then we moved on to a lovely theme. Sysadmin. Here I reaffirmed, learned, and decided that automation is a fundamental part of this field, as there are cases where it saves us a lot of time.
-
-I am passionate about continuing to learn how to automate the boring part of my job. Learning computer security, understanding the kernel, building API'S.
-
-I hope some day become a sysadmin/linux 🧠
 
  **You can find me on:**
 
