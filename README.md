@@ -3,6 +3,7 @@ hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 Software Developer at [HolbertonSchool](https://github.com/holbertonschool)
 ##  👨🏻‍💻  About me
+- 🌱 My name is Jordan Buitrago, I'm a Software Developer graduated at Holberton School and a Food Process Engineer.
 
 
  **You can find me on:**
@@ -22,6 +23,7 @@ Software Developer at [HolbertonSchool](https://github.com/holbertonschool)
 
 - **languages and tools:**
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
