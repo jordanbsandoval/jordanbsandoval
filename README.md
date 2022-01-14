@@ -3,8 +3,14 @@ hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 Software Developer at [HolbertonSchool](https://github.com/holbertonschool)
 ##  👨🏻‍💻  About me
-- 🌱 My name is Jordan Buitrago, I'm a Software Developer graduated at Holberton School and a Food Process Engineer.
-
+- 🌱 My name is Jordan Buitrago, I'm a Software Developer graduated at Holberton School Foundations and I currently doing my specialization in Full-Stack Web Development.
+- ✨ After graduation, I decided to dive into the TECH world.
+- 🌱 I have been studying low-level programming, high-level
+programming, system engineering and devops, and web
+stack programming (Front-end & Back-end) using a
+methodology based on peer-learning and projects.
+- ✨ I'm curious, adaptable, a fast learner and I love developing my skills.
+- 📝 [Here is my Curriculum Vitae](/Software_developer_jordan_buitrago.pdf)
 
  **You can find me on:**
 
