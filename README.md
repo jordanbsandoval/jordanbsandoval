@@ -10,7 +10,7 @@ programming, system engineering and devops, and web
 stack programming (Front-end & Back-end) using a
 methodology based on peer-learning and projects.
 - ✨ I'm curious, adaptable, a fast learner and I love developing my skills.
-- 📝 [Here is my Curriculum Vitae](/Software_developer_jordan_buitrago.pdf)
+- 📝 [Here is my Curriculum Vitae](~/personal/curriculum/Dev_Jordan_Buitrago_Sandoval_CV.pdf)
 
  **You can find me on:**
 
